@@ -3,7 +3,8 @@
 ## Environment
 - Raspberry Pi 
 - **Magic Leap**
-- Servo Cameras
+- IoT Cameras
+- IoT Microphones
 - IBM Watson
 - Unity3D
 
